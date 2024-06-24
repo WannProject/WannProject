@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kurniawan</h1>
-<h3 align="center">Web Developer and Data Scientist From Makassar, Indonesia</h3>
+<h3 align="center">Web Developer and Data Scientist From Indonesia</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2dyOWhrMHNyNTRjZ2VtbDJkYjR2eG1laXltaGRuaHNvY3BpcXVlYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rpl1sod1vCXK0L2SUN/giphy.webp">
 
